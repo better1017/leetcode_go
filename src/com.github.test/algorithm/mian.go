@@ -8,7 +8,3 @@ type ListNode struct {
 func main() {
 
 }
-
-func hasCycle(head *ListNode) bool {
-
-}
